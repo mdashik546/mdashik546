@@ -1,5 +1,5 @@
 
-<div  > <img src="https://i.ibb.co.com/0ZKNXsB/ASHIK.jpg" width="100%" height="450"> </div>
+<div  > <img src="https://i.ibb.co.com/0ZKNXsB/ASHIK.jpg" width="100%" height="320"> </div>
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Ashik</h1>
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Frontend+Developer;Passionate+React.JS+Developer" alt="Typing SVG" /></h2>
