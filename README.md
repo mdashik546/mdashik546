@@ -1,10 +1,10 @@
 
-<div  align="center"> <img src="https://i.ibb.co.com/FHn9krB/843eaea1-7f97-4c09-b471-97e8a4d22d37.png" width="250px"> </div>
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Ashik,</h1>
+<div  > <img src="https://i.ibb.co.com/0ZKNXsB/ASHIK.jpg" width="100%" height="450"> </div>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Ashik</h1>
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Frontend+Developer;Passionate+React.JS+Developer" alt="Typing SVG" /></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uttamsdev&label=Profile%20views&color=0e75b6&style=flat" alt="uttamsdev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikalahi546&label=Profile%20views&color=0e75b6&style=flat" alt="ashik" /> </p>
 
 ### 💫 About Me:
 
