@@ -1,5 +1,5 @@
-[![MasterHead](https://i.ibb.co.com/YpF24xt/Ashik-Passport-Size-Pphoto.jpg)]
-
+[![MasterHead](https://i.ibb.co.com/YpF24xt/Ashik-Passport-Size-Pphoto.jpg)
+<img src="https://i.ibb.co.com/YpF24xt/Ashik-Passport-Size-Pphoto.jpg" width="50px">
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Ashik,</h1>
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Frontend+Developer;Passionate+React.JS+Developer" alt="Typing SVG" /></h2>
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Cloud, AWS, Azure***
 
-- 👨‍💻 My Portfolio [https://uttamsaha.com]()
+- 👨‍💻 My Portfolio 
 
 - 💬 Ask me about **Frontend
 
@@ -56,9 +56,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
 
-### 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=uttamsdev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
 
 ### 🔝 Current GitHub Activity Status
 
@@ -71,4 +68,4 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=uttamsdev&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-![snake gif]()
+
