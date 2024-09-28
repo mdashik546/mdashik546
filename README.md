@@ -1,5 +1,5 @@
 
-<div  align="center"> <img src="https://i.ibb.co.com/YpF24xt/Ashik-Passport-Size-Pphoto.jpg" width="250px"> </div>
+<div  align="center"> <img src="https://i.ibb.co.com/FHn9krB/843eaea1-7f97-4c09-b471-97e8a4d22d37.png" width="250px"> </div>
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Ashik,</h1>
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Frontend+Developer;Passionate+React.JS+Developer" alt="Typing SVG" /></h2>
@@ -17,14 +17,16 @@
 
 - 💬 Ask me about **Frontend
 
-- 📫 How to reach me [LinkedIn]()
+- 📫 How to reach me [LinkedIn]
 
-- 📄 My Resume [Resume]()
+- 📄 My Resume [Resume]
 
 - ⚡ Fun fact **I am foodie :)**
 
 ### Get in Touch
 [![Facebook](https://img.shields.io/badge/facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100021923862893)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashik__alahi/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashikalahi546@gmail.com)
 
 
 ### 💻 Tech Stack:
@@ -38,7 +40,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23323330.svg?style=flat&logo=firebase&logoColor=%23F7DF1E)
-![RestAPI](https://img.shields.io/badge/RestAPI-white.svg?style=flat&logo=api&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
