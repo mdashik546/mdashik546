@@ -22,7 +22,6 @@
 
 - 📄 My Resume [Resume]
 
-- ⚡ Fun fact **I am foodie :)**
 
 ### Get in Touch
 [![Facebook](https://img.shields.io/badge/facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100021923862893)
