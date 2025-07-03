@@ -9,10 +9,8 @@
 
 ### 💫 About Me:
 
-<p align="justify">Hello, I’m Mohammad Ashik — a Front-End Developer. I’ve been working at Alzaf Limited for the past 2 years.
-
+<p style="text-align: justify; line-height: 1.8;">Hello, I’m Mohammad Ashik — a Front-End Developer. I’ve been working at Alzaf Limited for the past 2 years.
 I enjoy designing and developing responsive, user-friendly web interfaces that transform creative ideas into modern digital experiences.
-
 With a focus on clean code, modern tools (like React, Next.js, and Tailwind CSS), and user experience, I strive to present every project in a beautiful and effective way.</p>
 
 
