@@ -9,7 +9,11 @@
 
 ### 💫 About Me:
 
-<p align="justify">Hi, I'm Mohammed Ashik , Frontend Developer from Bangladesh.</p>
+<p align="justify">Hello, I’m Mohammad Ashik — a Front-End Developer. I’ve been working at Alzaf Limited for the past 2 years.
+
+I enjoy designing and developing responsive, user-friendly web interfaces that transform creative ideas into modern digital experiences.
+
+With a focus on clean code, modern tools (like React, Next.js, and Tailwind CSS), and user experience, I strive to present every project in a beautiful and effective way.</p>
 
 
 - 🌱 I’m currently learning **Cloud, AWS, Azure***
@@ -23,7 +27,7 @@
 - 📄 My Resume [Resume]
 
 
-### Get in Touch
+### Socials:
 [![Facebook](https://img.shields.io/badge/facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100021923862893)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashik__alahi/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashikalahi546@gmail.com)
@@ -38,8 +42,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23323330.svg?style=flat&logo=firebase&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
