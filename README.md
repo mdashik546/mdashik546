@@ -1,5 +1,5 @@
 
- <img src="https://i.ibb.co.com/L1w30gM/ashik.png" width="100%" />
+ <img src="https://i.ibb.co/skM2Q4h/dup.png" width="100%" />
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Mohammed Ashik</h1>
 
