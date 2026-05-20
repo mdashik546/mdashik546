@@ -1,4 +1,5 @@
 <!-- <img src="https://i.ibb.co/cz7dGPk/asik.png" width="100%" /> -->
+<img src="https://res.cloudinary.com/dzd9ogjnp/image/upload/v1779249539/github-bannar_svgjxr.png" width="100%" /> 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px">
   Hi, I'm Md. Ashik
